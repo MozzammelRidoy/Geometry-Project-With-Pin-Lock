@@ -60,7 +60,7 @@ document.getElementById('verify-pin').addEventListener('click', function(){
        
        pinMatchMassage.style.display = 'block';
        pinFailorMassage.style.display ='none';
-       window.location.href = 'index.html';
+       window.location.href = 'geomectry.html';
     }
     else{
        
